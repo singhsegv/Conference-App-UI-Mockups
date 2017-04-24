@@ -13,17 +13,17 @@ A brief overview of features of the app:
 
 ## Mockups for the app
 
-![] (/graphics/Splash.png)
+![] (./graphics/Splash.png)
 
-![] (/graphics/Login.png)
+![] (./graphics/Login.png)
 
-![] (/graphics/About.png)
+![] (./graphics/About.png)
 
-![] (/graphics/Feed.png)
+![] (./graphics/Feed.png)
 
-![] (/graphics/Schedule.png)
+![] (./graphics/Schedule.png)
 
-![] (/graphics/Speaker.png)
+![] (./graphics/Speaker.png)
 
-![] (/graphics/Map.png)
+![] (./graphics/Map.png)
 
