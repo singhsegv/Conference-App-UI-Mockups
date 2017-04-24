@@ -13,9 +13,9 @@ A brief overview of features of the app:
 
 ## Mockups for the app
 
-![] (Conference-App-UI-Mockups/graphics/About.png)
+![About Screen](Conference-App-UI-Mockups/graphics/About.png)
 
-![] (Conference-App-UI-Mockups/graphics/Login.png)
+![](Conference-App-UI-Mockups/graphics/Login.png)
 
 ![] (Conference-App-UI-Mockups/graphics/About.png)
 
