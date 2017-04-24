@@ -13,17 +13,17 @@ A brief overview of features of the app:
 
 ## Mockups for the app
 
-![] (./graphics/Splash.png)
+![] (Conference-App-UI-Mockups/graphics/About.png)
 
-![] (./graphics/Login.png)
+![] (Conference-App-UI-Mockups/graphics/Login.png)
 
-![] (./graphics/About.png)
+![] (Conference-App-UI-Mockups/graphics/About.png)
 
-![] (./graphics/Feed.png)
+![] (Conference-App-UI-Mockups/graphics/Feed.png)
 
-![] (./graphics/Schedule.png)
+![] (Conference-App-UI-Mockups/graphics/Schedule.png)
 
-![] (./graphics/Speaker.png)
+![] (Conference-App-UI-Mockups/graphics/Speaker.png)
 
-![] (./graphics/Map.png)
+![] (Conference-App-UI-Mockups/graphics/Map.png)
 
