@@ -13,7 +13,7 @@ A brief overview of features of the app:
 
 ## Mockups for the app
 
-<img src="./graphics/About.png" | width="100" height="150">
+![An image](./graphics/Splash.png)
 
 ![Login Screen](./graphics/Login.png)
 
