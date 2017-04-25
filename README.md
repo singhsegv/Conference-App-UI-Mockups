@@ -13,7 +13,7 @@ A brief overview of features of the app:
 
 ## Mockups for the app
 
-![About Screen](./graphics/About.png | width=100 height=150)
+![About Screen](./graphics/About.png | width="100" height="150")
 
 ![Login Screen](./graphics/Login.png)
 
