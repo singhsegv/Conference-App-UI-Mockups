@@ -13,17 +13,40 @@ A brief overview of features of the app:
 
 ## Mockups for the app
 
-![An image](./graphics/Splash.png)
+### Splash screen
+This will be the screen where the data will be loaded in background to save user from the hassle of waiting for the loading in the main screen. As the motive of the app is to save as much information offline to work as offline first app, this will be the key point in focus in this screen.
 
-![Login Screen](./graphics/Login.png)
+<img src=graphics/Splash.png width=250 height=400/>
 
-![About Screen](./graphics/About.png)
+### Login Screen
+The final social login functionalities will be discussed with the mentors during the community bonding period, so this is subject to change.
 
-![Feed Screen](./graphics/Feed.png)
+<img src=graphics/Login.png width=250 height=400/>
 
-![Schedule Screen](./graphics/Schedule.png)
+### About Screen
+This screen will provide the users all the information about the Systers, our mission and offering provided by us. This will also contain the links to join our slack channel and mailing list.
 
-![Speaker Screen](./graphics/Speaker.png)
+<img src=graphics/About.png width=250 height=400/>
 
-![Map Screen](./graphics/Map.png)
+### Feed
+This will be the main screen of the app where all the information will be shown to the user and will be designed with offline first approach in mind.
 
+<img src=graphics/Feed.png width=250 height=400/>
+
+### Schedule Screen
+This screen will provide the attendees with the schedule of the conference which will include the topic of the talks, speakers, location where the talk will be along with other related information.
+
+<img src=graphics/Schedule.png width=250 height=400/>
+
+### Speaker Information
+This is the speaker information screen and will provide the users with the information about the talks presented by them along with all the information about the speaker and their social channels such as G+, linkedin, etc.
+
+<img src=graphics/Speaker.png width=250 height=400/>
+
+### Map Screen
+This screen will help the attendees to have a hassle free indoor map for the conference and get information about all the places where events are happening.
+
+<img src=graphics/Map.png width=250 height=400/>
+
+## How the app will be developed
+Pending
