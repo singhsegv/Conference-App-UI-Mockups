@@ -48,5 +48,6 @@ This screen will help the attendees to have a hassle free indoor map for the con
 
 <img src=graphics/Map.png width=250 height=400/>
 
-## How the app will be developed
-Pending
+## Third party libraries and other details
+* [Retrofit](https://github.com/square/retrofit) for consuming the etouches API.
+* [Travis](https://travis-ci.org/) or [Circle CI](https://circleci.com/) for setting up continuous integration.
